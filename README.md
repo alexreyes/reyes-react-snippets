@@ -1,4 +1,8 @@
-# Simple React Snippets
+# reyes-react-snippets
+
+THIS IS A FORK OF SIMPLE-REACT-SNIPPETS FOR PERSONAL USE
+
+I added react native, and stuff. 
 
 The essential collection of React Snippets and commands.
 
